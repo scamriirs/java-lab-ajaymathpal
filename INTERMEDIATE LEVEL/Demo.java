@@ -1,4 +1,4 @@
-class Demo {
+class  {
     int a;
     static int count;
     Demo(int a) {
