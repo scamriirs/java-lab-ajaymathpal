@@ -7,7 +7,7 @@ class Vehicle {
         System.out.println("Vehicle type: " + vehicle_type);
     }
 }
-class Car extends Vehicle {
+class  extends Vehicle {
     String model_type, company;
     Car(String v, String m, String c) {
         super(v);
